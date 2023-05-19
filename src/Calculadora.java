@@ -11,12 +11,15 @@ public class Calculadora {
 
     }
     
+    
+
+    //! Funciones principales de la calculadora
+    
+    // Suma (+) Jaime Barrios Miguel
     public static int suma(int a, int b) {
     	return (a+b);
     }
-
-    //! Funciones principales de la calculadora
-    // Suma +
+    
     // Resta -
     // Multiplicacion *
     // Division /
