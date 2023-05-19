@@ -32,7 +32,11 @@ public class Calculadora {
 		return (a*b);
 
 	}
-    // Division /
+    // Division - Pablo Vaquerizo Ruiz
+	public static int dividir(int a, int b) {
+	
+		return (a/b);
+	}
     // Potencia **
     // Raiz -*
     // Factorial !
