@@ -8,6 +8,7 @@ public class Calculadora {
         }
         
         suma(a, b);
+        resta(a, b);
 
     }
     
@@ -20,7 +21,11 @@ public class Calculadora {
     	return (a+b);
     }
     
-    // Resta -
+    // Resta - Miguel Gonzalez Pascual
+    public static int resta(int a, int b) {
+    	return (a-b);
+    }
+
     // Multiplicacion *
     // Division /
     // Potencia **
