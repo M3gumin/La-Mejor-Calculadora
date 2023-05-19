@@ -26,7 +26,12 @@ public class Calculadora {
     	return (a-b);
     }
 
-    // Multiplicacion *
+    // Multiplicacion - Leire Solano Álvarez
+	public static int multiplicar(int a, int b) {
+
+		return (a*b);
+
+	}
     // Division /
     // Potencia **
     // Raiz -*
