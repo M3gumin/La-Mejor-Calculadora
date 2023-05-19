@@ -32,7 +32,16 @@ public class Calculadora {
 		return (a*b);
 
 	}
-    // Division /
+    // Division - Viorel Alin Vranau
+	public static void division(int a, int b) {
+		int division;
+		if (b != 0) {
+			division = a / b;
+			System.out.println(division);
+		} else {
+			System.out.println("No se puede dividir entre 0");
+		}
+	}
     // Potencia **
     // Raiz -*
     // Factorial !
